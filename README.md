@@ -17,5 +17,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/secp256k1_vanity.git
-   cd secp256k1_vanity
+   git clone https://github.com/Dilshad737/CPU-based-Ethereum-vanity-address-generator.git
+   cd CPU-based-Ethereum-vanity-address-generator
